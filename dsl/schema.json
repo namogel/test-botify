@@ -1,0 +1,34 @@
+[
+  {
+    "name": "name",
+    "type": "str"
+  },
+  {
+    "name": "code",
+    "type": "int"
+  },
+  {
+    "name": "population",
+    "type": "int"
+  },
+  {
+    "name": "average_age",
+    "type": "float"
+  },
+  {
+    "name": "distr_code",
+    "type": "int"
+  },
+  {
+    "name": "dept_code",
+    "type": "int"
+  },
+  {
+    "name": "region_name",
+    "type": "str"
+  },
+  {
+    "name": "region_code",
+    "type": "int"
+  }
+]
