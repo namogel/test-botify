@@ -1,0 +1,5 @@
+# create virtualenv
+pip3 install -r requirements.txt
+./manage.py makemigrations main
+./manage.py migrate
+./manage.py import_towns_data data/towns.tsv
